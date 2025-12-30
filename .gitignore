@@ -1,0 +1,13 @@
+﻿[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
